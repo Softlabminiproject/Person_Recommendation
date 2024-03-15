@@ -1,2 +1,2 @@
-# Person_Recommendation
+# Heart Disease Prediction
 ok 
